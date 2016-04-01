@@ -1,2 +1,2 @@
 # sails-deploy
-Sails.js app deployment based on arnuoda's meteor-up
+Sails.js app deployment based on arunoda's meteor-up

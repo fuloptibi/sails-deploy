@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "host": "hostname",
+      "username": "root",
+      "password": "password"
+    }
+  ],
+  "setupMongo": true,
+  "setupNode": true,
+  "nodeVersion": "0.10.36",
+  "enableUploadProgressBar": true,
+  "appName": "test",
+  "app": "/local/path/to/the/app",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "deployCheckWaitTime": 15
+}
