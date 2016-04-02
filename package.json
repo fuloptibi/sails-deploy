@@ -1,5 +1,5 @@
 {
-  "name": "sails-deploy",
+  "name": "sails-deploy-up",
   "version": "0.1.0",
   "description": "Production Quality Sails.js Deployments",
   "repository": {
